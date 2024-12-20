@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello! I'm Andrew👋
 
-<!--
-**Soldokov/Soldokov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+I am a novice developer in the field of Python, HTML, Js and CSS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- HTML, JavaScript, CSS
+
+
+
+## Contacts
+
+- Email: averevkin28@gmail.com
+
+<a href="https://codeclimate.com/gh/[username]/[repo]">
+  <img src="https://api.codeclimate.com/v1/badges/[badge_id]/maintainability" />
+</a>
